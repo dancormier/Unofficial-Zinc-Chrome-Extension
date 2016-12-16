@@ -2,7 +2,7 @@
 
 This is just the [Zinc](https://zinc.video/) bookmarklet as a Chrome Extension.
 
-All thanks to [legierski's bookmarklet-to-extension](https://sandbox.self.li/bookmarklet-to-extension/))!
+All thanks to [legierski's bookmarklet-to-extension](https://sandbox.self.li/bookmarklet-to-extension/)!
 
 I am not affiliated with Zinc or it's creators. I just figured this would be handy.
 
