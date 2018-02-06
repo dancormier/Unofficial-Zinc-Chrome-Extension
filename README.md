@@ -1,4 +1,4 @@
-#Unofficial Zinc Chrome Extension
+# Unofficial Zinc Chrome Extension
 
 This is just the [Zinc](https://zinc.video/) bookmarklet as a Chrome Extension.
 
