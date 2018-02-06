@@ -6,7 +6,7 @@ All thanks to [legierski's bookmarklet-to-extension](https://sandbox.self.li/boo
 
 I am not affiliated with Zinc or it's creators. I just figured this would be handy.
 
-###Instructions 
+### Instructions 
 
 1. Download/Clone.
 2. Follow steps 4-7 [here](https://sandbox.self.li/bookmarklet-to-extension/).
